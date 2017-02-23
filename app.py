@@ -11,4 +11,4 @@ while True:
     date = str(datetime.datetime.today())    
     print(date)
     print(sysctl)
-    time.sleep(15)
+    time.sleep(20)
